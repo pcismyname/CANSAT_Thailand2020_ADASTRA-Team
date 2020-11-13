@@ -57,16 +57,16 @@ Battery :  Lipo Battery 3.7v 1000mah * 2
 
   power from microcontroller
 
--SCD30
+    -SCD30
 
--SI1145
+    -SI1145
 
 
 5 V (power from serial batteries)   ***** use voltage regulator from 7.2 V --> 5 V  *****
 
--NEO6MV2
+    -NEO6MV2
 
--10DOF IMU Breakout - L3GD20H + LSM303 + BMP180
+    -10DOF IMU Breakout - L3GD20H + LSM303 + BMP180
 
--ESP32CAM
+    -ESP32CAM
 
