@@ -6,7 +6,7 @@ This is code for cansat which uses LoRa technology and capture aerial photo
 All sensors use I2C connection so it easy to use
 Battery use serial connection for both 3.7 V and 5 V
 
-This cansat can collect these data and send through to the ground station :
+This cansat can collect these data and send through to the ground station 
 -enviroment temperature
 -CANSAT temperature
 -Humidity
